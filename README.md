@@ -1,6 +1,6 @@
 # Svelte-TodoList
 
-![colorgen2](https://user-images.githubusercontent.com/74113986/177221631-93980eb3-13b4-4899-bfcd-d529c78118fd.png)
+![Task](https://user-images.githubusercontent.com/74113986/177887350-dd9e7f59-3ace-480f-8e71-0681471917a8.png)
 
 > Status: Developing ⚠
 
@@ -36,3 +36,6 @@
 3. Bibliotecas - [Values.js](https://noeldelgado.github.io/values.js/).
 4. Icones - [Iconify](https://iconify.design).
 5. Node - [Node](https://nodejs.org/en/).
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/74113986/177886969-3da93698-6e82-4d56-9ef7-a8cdc47798a2.gif)
+
